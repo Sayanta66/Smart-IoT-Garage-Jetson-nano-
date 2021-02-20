@@ -2,7 +2,7 @@
 
 Hello Folks :)
 
-Here is my project based on IOT garage opening on jetsonnano with the following features:-
+Here is the project based on IOT garage opening on jetsonnano with the following features:-
 
 1) Stream live video to the web using flask(with face detection)
 
